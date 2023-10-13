@@ -4,6 +4,9 @@
 
 This is a multithreaded client-server chat application developed in C for Unix/Linux systems. It allows multiple clients to connect to a central server and engage in real-time chat with each other. Clients can run in separate terminals, and they don't need to be on the same machine.
 
+## Demo
+![multi-threaded-client-server-dem](https://github.com/tapasrnk/multithreaded-client-server/assets/74441392/1cf0cd62-2cf9-4138-b6d0-e960bea0c7fb)
+
 ## Prerequisites
 
 - Unix/Linux operating system
